@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: salmon;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+#icon{
+    font-size: 300px;
+}
+
+#user{
+    font-size: 25px;
+}
