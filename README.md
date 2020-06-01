@@ -2,7 +2,7 @@
 
 <h2>Working with the commands fetch and async await.
 
-<p>Using the Github API, show my username and my name.
+<p>Using the Github API, show my username and my name.</p>
   
  <img src="image/screen.png">
 
